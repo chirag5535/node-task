@@ -41,7 +41,7 @@ const insertProduct = async (product) => {
     product.name,
     product.category,
     product.description,
-    product.launch_date,  // Corrected typo 'lanuch_date' to 'launch_date'
+    product.launch_date,
     product.signature,
   ];
   
@@ -72,7 +72,7 @@ const updateProduct = async (product) => {
     product.name,
     product.category,
     product.description,
-    product.launch_date,  // Corrected typo 'lanuch_date' to 'launch_date'
+    product.launch_date,  
     product.signature,
     product.sku,
   ];
