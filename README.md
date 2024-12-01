@@ -16,7 +16,7 @@ Before running the project, make sure you have the following:
 
 - Node.js (v14 or above)
 - PostgreSQL database
-- A `.env` file for database connection configuration
+- Add `.env` file for database connection configuration
 
 ## Installation
 
@@ -27,13 +27,18 @@ Before running the project, make sure you have the following:
    cd <project-directory>
 
 2.Install the dependencies:
-	```bash
+    
+	```bash 
 	npm install
-3.Create a .env file in the root directory with the following environment variables for database configuration:
-	- DB_HOST=your-database-host
-	- DB_USER=your-database-user
-	- DB_PASSWORD=your-database-password
-	- DB_NAME=your-database-name
-	- DB_PORT=your-database-port
+	
+3. Create a .env file in the root directory with the following environment variables for database configuration:
+- DB_HOST=your-database-host
+- DB_USER=your-database-user
+- DB_PASSWORD=your-database-password
+- DB_NAME=your-database-name
+- DB_PORT=your-database-port
+
 4. Run the project:
+    
+    ```bash
 	node index.js
