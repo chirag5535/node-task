@@ -1,5 +1,6 @@
 sku,name,category,description,launch_date
 SKU001,Smartphone Pro,Electronics,High-quality gadget,2023-01-15
 SKU002,Vacuum Cleaner 3000,Home Appliances,Efficient and reliable,20230-02-20
-SKU003,The Great Novel,Books,Informative and engaging,2023-10-06
-SKU004,Wireless Earbuds,Electronics,Advanced technology,2024-06-16
+SKU003,The Great Novel 2,Books,Informative and engaging,2023-10-06
+SKU004,Wireless Earbuds 2,Electronics,Advanced technology,2024-06-16
+SKU005,Mobile,Electronics,Advanced technology,2024-06-20
